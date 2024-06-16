@@ -155,6 +155,24 @@
       "category": "Dairy",
       "isInCart": false,
       "id": 26
+    },
+    {
+      "name": "choco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 27
+    },
+    {
+      "name": "choco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 28
+    },
+    {
+      "name": "Milk",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 29
     }
   ]
 }
