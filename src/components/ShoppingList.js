@@ -14,7 +14,7 @@ function ShoppingList() {
   }, []);
 
   function handleAddItem(newItem) {
-    console.log("In shoppingList:", newItem);
+    setItems([...items, newItem]);
   }
 
   function handleCategoryChange(category) {
